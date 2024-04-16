@@ -19,6 +19,12 @@ nav {
   margin-bottom: 55px;
 
 }
+.navbar-nav{
+    display: flex;
+    flex-direction: row;
+    
+
+}
 
 ul {
 
